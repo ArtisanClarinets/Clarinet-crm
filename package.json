@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@shopify/app-bridge-react": "^4.1.6",
+    "@shopify/app-bridge-utils": "^3.5.1"
+  }
+}
